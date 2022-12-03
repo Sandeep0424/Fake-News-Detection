@@ -7,10 +7,6 @@ The problem we are going to solve in this project is the Fake news detection pro
 # Data collection :
 The dataset is obtained from Kaggle.
 
-Link: https://www.kaggle.com/amitabhajoy/Fake_news_detection
-
-Link For the You tube video : https://www.youtube.com/channel/UCxhbaFMb5WplejkaaeV8YvQ
-
 # Model creation :
 - The first step is data science work where we take a data set from Kaggle called ‘Bengaluru_House_price.csv’.We will perform some extensive data cleaning work on it to ensure that it gives accurate results during prediction.
 
@@ -20,7 +16,8 @@ Link For the You tube video : https://www.youtube.com/channel/UCxhbaFMb5Wplejkaa
 
 # Deployement :
 The web app has been build using basic HTML, CSS, Javascript, Flask and bootstrap.
-![Final_Website](https://github.com/Sandeep0424/Fake-News-Detection/blob/main/2.jpg)
+
+![Final_Website]((https://github.com/Sandeep0424/Fake-News-Detection/blob/main/2.png))
 ![Final_Website](https://github.com/Sandeep0424/Fake-News-Detection/blob/main/Picture1.png)
 ![Final_Website](https://github.com/Sandeep0424/Fake-News-Detection/blob/main/Picture2.png)
 ![Final_Website](https://github.com/Sandeep0424/Fake-News-Detection/blob/main/Picture3.png)
